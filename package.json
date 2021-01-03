@@ -1,0 +1,33 @@
+{
+  "name": "pixeldictator",
+  "version": "0.0.1",
+  "description": "A pixel based strategy game",
+  "main": "src/server/index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalionCode/pixelDictator.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "KalionCode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KalionCode/pixelDictator/issues"
+  },
+  "homepage": "https://github.com/KalionCode/pixelDictator#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "http-errors": "^1.8.0",
+    "morgan": "^1.10.0"
+  }
+}

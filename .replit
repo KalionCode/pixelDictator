@@ -1,5 +1,5 @@
-language = "nodejs";
-run = "";
+language = "nodejs"
+run = "node src/server/bin/www"
 
 
 
